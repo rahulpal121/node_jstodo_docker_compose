@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # django
-This is first clone repo.
 =======
 <!-- badges -->
 <div align="center">
